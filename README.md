@@ -1,1 +1,3 @@
-# py310-replit
+# PyTeal Template Replit
+
+
